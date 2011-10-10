@@ -34,7 +34,7 @@
 
  4. Set External Tool Options as follows:
 
-    ![Set External Tool Options as follows](http://i.imgur.com/pDkNX.png)
+    ![Set External Tool Options as follows](http://i.imgur.com/El101.png)
 
  5. Create a `jshint` directory in your project and download `config.json` and `reporter.js` from the `node-jshint` repo.
 
